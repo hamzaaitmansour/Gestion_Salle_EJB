@@ -1,4 +1,4 @@
-package EjbSession;
+package EjbSession.sallles;
 
 import javax.ejb.Local;
 import metier.entities.*;
